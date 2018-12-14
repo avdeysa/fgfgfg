@@ -10,8 +10,9 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("lol");
             Console.WriteLine("lol,oll");
-            Console.WriteLine("lol,oll");
+            
         }
     }
 }
